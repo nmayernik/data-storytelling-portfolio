@@ -1,5 +1,5 @@
 ## Welcome to my data storytelling portfolio.
-I'm Nick Mayernik, a freelance UX Designer & Researcher working primarily with websites and native mobile apps. I'm also a senior Psychology student at [Lafayette College](http://lafayette.edu), where I study the cognitive models underlying positive user experience.
+I'm Nick Mayernik, a freelance UX Designer & Researcher interested in creating meaningful digital interactions. I'm also a senior Psychology student at [Lafayette College](http://lafayette.edu), where I study the cognitive models underlying positive user experience.
 
 This summer, I'm taking COMM-165: Data Storytelling at Lehigh, and this is where I'll share my progress.
 
