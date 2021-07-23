@@ -8,6 +8,8 @@ This summer, I'm taking COMM-165: Data Storytelling at Lehigh, and this is where
 
 For more of me, you can visit [my personal website](https://nickmayernik.com), or my [Github](https://github.com/nmayernik).
 
+<iframe width="640" height="320" data-original-width="640" data-original-height="320" src="https://www.thinglink.com/mediacard/1475221191688978435" type="text/html" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling="no"></iframe><script async src="//cdn.thinglink.me/jse/responsive.js"></script>
+
 
 ---
 
@@ -18,4 +20,3 @@ For more of me, you can visit [my personal website](https://nickmayernik.com), o
 ---
 
 
-<iframe width="640" height="320" data-original-width="640" data-original-height="320" src="https://www.thinglink.com/mediacard/1475221191688978435" type="text/html" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling="no"></iframe><script async src="//cdn.thinglink.me/jse/responsive.js"></script>
