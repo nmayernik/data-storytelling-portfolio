@@ -10,6 +10,13 @@ For more of me, you can visit [my personal website](https://nickmayernik.com), o
 
 ---
 
+### Where Twitter Users are Talking About iOS 15
+Every summer, Apple releases beta software of iOS, iPadOS, macOS, watchOS, and tvOS to developers and enthusiasts, many of whom are active on Twitter. This map shows where Twitter users are discussing the iOS 15 beta in July 2021.
+
+<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><small><a href="//lu.maps.arcgis.com/apps/Embed/index.html?webmap=8ba51380a0c346d7965aca5df0be98e8&extent=-108.0912,26.9084,-60.4106,50.6293&zoom=true&scale=true&disable_scroll=false&theme=light" style="color:#0000FF;text-align:left" target="_blank">View larger map</a></small><br><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Where Twitter Users Are Talking About iOS 15" src="//lu.maps.arcgis.com/apps/Embed/index.html?webmap=8ba51380a0c346d7965aca5df0be98e8&extent=-108.0912,26.9084,-60.4106,50.6293&zoom=true&previewImage=false&scale=true&disable_scroll=false&theme=light"></iframe></div>
+
+---
+
 ### Interactive Tour of [PYRAMID](https://pyramid.fitness)
 This is an VR-friendly immersive tour of PYRAMID's Multipurpose Fitness Studio and Sports Turf, powered by ThingLink and Google Street View. Swipe to explore different viewing angles and to switch rooms.
 
